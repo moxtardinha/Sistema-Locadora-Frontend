@@ -1,0 +1,21 @@
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2a90b8;
+  background: linear-gradient(90deg,rgba(42, 144, 184, 1) 0%, rgba(36, 125, 75, 1) 100%, rgba(237, 221, 83, 1) 100%);
+}
+
+.login {
+  width: 50%;
+  max-width: 400px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: white;
+  border-radius: 10px;
+}
