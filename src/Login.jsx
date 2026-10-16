@@ -41,7 +41,7 @@ function Login() {
   }
   return (
     <main>
-      <div className="login">
+      <div className="login p-5 shadow">
         <h1 className='fs-2'>Sistema-Locadora</h1>
         <label htmlFor="inputCPF">CPF</label>
         <input
